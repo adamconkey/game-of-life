@@ -1,0 +1,10 @@
+name: gol
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - pyqt
+  - pyqtgraph
+  - ipython
+  - pyyaml
+  - matplotlib
